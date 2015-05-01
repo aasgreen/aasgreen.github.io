@@ -48,7 +48,8 @@ body {
                 -->
                 {% for page in site.pages_list %}
                 &nbsp;&nbsp;&nbsp;
-                <li><a href>="{{ page[1] }}">{{ page[0] }}</a></li>
+                <small><a href>="{{ page[1] }}">{{ page[0] }}</a></small>
+                {% endfor %}
                     </ul>
                 </div>
             </div>
