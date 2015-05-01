@@ -6,3 +6,9 @@ paginate: 10
 markdown: kramdown
 permalink: pretty
 
+
+pages_list:
+    About: '/about'
+    Archive: '/archive'
+    Physics: '/physics'
+    

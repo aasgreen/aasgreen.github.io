@@ -41,10 +41,14 @@ body {
                 <a class="brand" href="/">{{ site.name }}</a>
                 <div class="nav-collapse">
                     <ul class="nav">
-                        <li><a href="/">Home</a></li>
+                <!--        <li><a href="/">Home</a></li>
                         <li><a href="/about/">About</a></li>
                         <li><a href="/contact/">Contact Us</a></li>
                         <li><a href="/physics/">Physics</a></li>
+                -->
+                {% for page in sige.pages_list %}
+                &nbsp;&nbsp;&nbsp;
+                <small><a href>="{{ page[1] }}">{{ page[0] }}</a></small>
                     </ul>
                 </div>
             </div>
