@@ -86,7 +86,7 @@ video preview ceased to work, by that I mean it didn’t play videos anymore. I 
 <p>Well. Blender. Someday soon, someone will write a graphics UI so complicated, so dense that someone will write another graphical UI so serve as a user facing layer. It will probably be for Blender. I tried working with it, using a very nice blog post.</p>
 
 <p>You click on a small button on the top which enters you into video editing mode. Then you click on the add button which is hidden amidst the dense foliage of words and icons. Then you add your video. Then you go to ‘strip’ and make a metastrip to combine audio and video. Then you go to strip-addeffects-time or something, and add a time speed up strip. Something something involving keyframes. At this point, I had accidently opened another window, so I minimized it, but
-found another window behind that, and tried to minimize it, but there were just more windows. I closed Blender in fear. </p>
+found another window behind that, and tried to minimize it, but there were just more windows. I closed Blender in fear.</p>
 
 <p>I eventually got it to work, but for some reason my sped up video had an additional 5 seconds of darkness added to it. I don’t know why.</p>
 
@@ -105,7 +105,7 @@ found another window behind that, and tried to minimize it, but there were just 
 
 <p>I have fond memories of ffmpeg. Converting downloaded movies in their .avi format to something that could play on my ipod classic. Getting the aspect ratio right, the formatting. The long line of dense code that I could only understand in the periphery.</p>
 
-<p>Anyway, ffmpeg worked. It was hard actually. Due to a tif in the ubuntu community you can’t actually get real ffmpeg on trusty ubuntu, which is what I am using. So you have to do this sketchy ppa thing, where you ask a dude named micheal to please directly connect to my computer and give me ffmpeg. </p>
+<p>Anyway, ffmpeg worked. It was hard actually. Due to a tif in the ubuntu community you can’t actually get real ffmpeg on trusty ubuntu, which is what I am using. So you have to do this sketchy ppa thing, where you ask a dude named micheal to please directly connect to my computer and give me ffmpeg.</p>
 
 <p>I finally got it to work, but I had a lot of difficulty. What was happening was that I would speed up the film, but the duration was being incorrectly reported. So my film would finish in five seconds, but there would be a blank frame playing for 6 more minutes. I originally thought this was because the way ffmpeg speeds up films is by using a weird filter. I don’t understand it, but by changing some metadata flag you can get the frames to display faster, but the actual framerate
 doesn’t change. So, I think ffmpeg just drops frames to make it work? But you can force the framerate to change as well, but then I think you end up back with the mencoder problem.</p>
