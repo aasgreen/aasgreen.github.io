@@ -8,6 +8,7 @@ gem 'jekyll-paginate'
 group :jekyll_plugins do
   gem 'jekyll-livereload'
   gem 'jekyll-last-modified-at'
-  gem 'jekyll-data'
+  #gem 'jekyll-data'
+  #
 end
 
