@@ -3,6 +3,6 @@ title: Physics
 layout: page
 ---
 
-[pal30rep](http://adamasgreen.com/pal30rep)
+[PAL30](http://adamasgreen.com/PAL30)
 
 
