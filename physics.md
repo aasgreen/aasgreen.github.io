@@ -1,10 +1,8 @@
 ---
-title: physics
-layout: default
+title: Physics
+layout: page
 ---
-Projects
-================
 
-Come back soon for a link to some of my ongoing projects
+[pal30rep](http://adamasgreen.com/pal30rep)
 
 
