@@ -6,7 +6,7 @@ description: "data driven exploration in science and society"
 url: "http://localhost:4000"
 paginate: 10
 markdown: kramdown
-theme: academic
+remote_theme: academic
 permalink: pretty
 gems: [jekyll-paginate]
 title_html: "adamasgreen"
