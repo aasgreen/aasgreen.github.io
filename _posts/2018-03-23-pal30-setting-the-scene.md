@@ -29,7 +29,9 @@ The bananna structure is already suggestive of the phase-- if you've ever seen a
 
 One thing that makes these phases interesting is that they are intrinsically polar-- so they try to reorient in the direction of applied fields. You can get an idea of why this is because of the 'kink' in the middle. This kink means that there are more electrons in the middle, so that each molecule has a little dipole built in.
 
-Now, these phases attracted some interest in the 90's as a potential new display was being developed (the FLC display). The display ended up not really working[^2], but not before 'bananna mania' had swept through the liquid crystal community. [^2]: I think it ran into problems with scaling from prototype to an actual product. It was a pretty finicky technology.
+Now, these phases attracted some interest in the 90's as a potential new display was being developed (the FLC display). The display ended up not really working[^2], but not before 'bananna mania' had swept through the liquid crystal community. 
+
+[^2]: I think it ran into problems with scaling from prototype to an actual product. It was a pretty finicky technology.
 
 PAL30 rears its head in 2011, when scientists published a paper in *Physical Review Letters* describing something that had never been seen before: a phase sequence of completely orthogonal phases!
 ![An Orthogonal Series of Phases](/assets/pal30/pal30header-1.png){:class='img-responsive'; style ='max-width: 200px; height=auto;'}
