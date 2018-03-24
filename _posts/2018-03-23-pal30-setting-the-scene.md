@@ -1,6 +1,8 @@
 ---
 layout: post
 title: PAL30 An Introduction to the Monster
+summary: A window into a liquid crystal physicist's job-- how to completely characterize a novel phase of matter
+thumbnail: /assets/pal30/bananna.jpg
 ---
 >*A powerful monster, living down<br/>
 >In the darkness, growled in pain, impatient...*
