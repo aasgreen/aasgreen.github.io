@@ -5,7 +5,7 @@ assets/favicons
 .bundle
 .sass-cache
 _site
-_posts
+#_posts
 #_config.yml
 *.md
 !README.md
