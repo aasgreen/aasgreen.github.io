@@ -8,13 +8,14 @@ paginate: 10
 markdown: kramdown
 #remote_theme: academic
 permalink: pretty
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 title_html: "adamasgreen"
 email: 'adam.green@colorado.edu'
 twitter_username: madaasgreen
 github_username: aasgreen
 linkedin_username: adamasgreen
 
+timezone: MST
 pages_list:
     About: '/about/'
     Archive: '/archive/'
