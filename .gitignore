@@ -6,6 +6,6 @@ assets/favicons
 .sass-cache
 _site
 #_config.yml
-*.md
+#*.md
 !README.md
 Gemfile.lock
