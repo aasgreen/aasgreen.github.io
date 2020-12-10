@@ -26,4 +26,4 @@ We all of us intuitively understand both TLJ and BDT flight to nature, to remote
 
 I am not claiming that *The Hunted* is a modern allegory for our collective cosumerist PTSD, by the way. But, I do think that it's themes of the desire to and ineviabilible failure of escape from ourselves/our alienating environments rang true to me. And, it had some pretty sick knife fights.
 
-3/5 stars.
+4/5 stars.
