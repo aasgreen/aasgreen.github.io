@@ -59,7 +59,7 @@ GEM
       forwardable-extended (~> 2.6)
     posix-spawn (0.3.13)
     public_suffix (3.0.3)
-    rake (10.5.0)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -84,7 +84,7 @@ DEPENDENCIES
   jekyll-last-modified-at
   jekyll-livereload
   jekyll-paginate
-  rake (~> 10.0)
+  rake (~> 12.3)
   redcarpet
 
 BUNDLED WITH
